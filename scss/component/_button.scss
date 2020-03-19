@@ -31,14 +31,3 @@
 .warning {
   background-color: $color-background-2;
 }
-
-@media (min-width: $media-sm) {
-
-.btn {
-  padding: 10px 30px;
-}
-
-.btn + .btn {
-  margin-left: 10px;
-}
-}
